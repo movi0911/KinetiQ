@@ -1,7 +1,9 @@
 # PerceptionGuard: Detecting Image Corruption Failures and Calibrated Abstention
 ### A Lightweight Research Prototype for Safety-Critical Vision in Robotics and Medical Imaging
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EUJ_uafoTOQodeAkZlOGt3EfQaVeODIL?usp=sharing)
+ or copy paste the following link:
+ https://colab.research.google.com/drive/1EUJ_uafoTOQodeAkZlOGt3EfQaVeODIL?usp=sharing
 
 ---
 
